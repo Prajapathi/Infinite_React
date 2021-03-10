@@ -7,3 +7,5 @@ I used create-react-app to build this, this is a simple react app that can help 
 this app is not responsive, i just built this as practise while learning infinite loading with react from "Web Dev Simplified".
 
 this not copied code, i just followed his instructions and added a few styles by the end of the project to give it an interactive UI.
+
+this projects still needs work as it facing problems in production but working fine in development environment
